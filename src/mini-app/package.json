@@ -1,0 +1,31 @@
+{
+  "name": "telegram-mp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snsoft-my/telegram-mp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snsoft-my/telegram-mp/issues"
+  },
+  "homepage": "https://github.com/snsoft-my/telegram-mp#readme",
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.9",
+    "telegraf": "^4.16.3",
+    "telegram": "^2.26.22"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

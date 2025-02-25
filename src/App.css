@@ -1,0 +1,9 @@
+@import "normalize.css";
+
+ 
+html{
+  font-size:calc( 100vw / 390 );
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+ 
